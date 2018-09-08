@@ -1,1 +1,4 @@
 this is a blank dummy text file.
+
+Adding line 3 to the file
+Adding line 4 to the file
