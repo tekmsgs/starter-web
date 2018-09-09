@@ -1,0 +1,3 @@
+Creating this file to understand git diff
+
+Step-1 commit this file.
