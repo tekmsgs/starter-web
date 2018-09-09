@@ -1,3 +1,7 @@
 Creating this file to understand git diff
 
 Step-1 commit this file.
+
+Step-2 staging changes
+
+Step-3 making changes in local
